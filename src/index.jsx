@@ -5,5 +5,4 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 
-// THIS IS UPLOADED TO GITHUBs
-//this updated version
+// new commit and updload to github
